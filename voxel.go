@@ -1,4 +1,4 @@
-package fauxgl
+package Test
 
 type Voxel struct {
 	X, Y, Z int
