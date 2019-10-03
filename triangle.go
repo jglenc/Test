@@ -1,4 +1,4 @@
-package fauxgl
+package Test
 
 type Triangle struct {
 	V1, V2, V3 Vertex
