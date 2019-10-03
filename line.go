@@ -1,4 +1,4 @@
-package fauxgl
+package Test
 
 type Line struct {
 	V1, V2 Vertex
