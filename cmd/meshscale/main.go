@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	. "github.com/fogleman/fauxgl"
+	. "github.com/jglenc/Test"
 	kingpin "gopkg.in/alecthomas/kingpin.v2"
 )
 
