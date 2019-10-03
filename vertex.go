@@ -1,4 +1,4 @@
-package fauxgl
+package Test
 
 type Vertex struct {
 	Position Vector
